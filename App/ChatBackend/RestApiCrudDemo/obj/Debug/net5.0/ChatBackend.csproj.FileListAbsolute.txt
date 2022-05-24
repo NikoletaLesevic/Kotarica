@@ -1,0 +1,265 @@
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.exe
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.deps.json
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.json
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ref\ChatBackend.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.pdb
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfo.cs
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.Manifest.cache
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.xml
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\scopedcss\bundle\ChatBackend.styles.css
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.RazorTargetAssemblyInfo.cache
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CopyComplete
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ref\ChatBackend.dll
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.pdb
+C:\Users\PC\source\repos\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.genruntimeconfig.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.exe
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.deps.json
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.json
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.dev.json
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ref\ChatBackend.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.pdb
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfo.cs
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.xml
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\scopedcss\bundle\ChatBackend.styles.css
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CopyComplete
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ref\ChatBackend.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.pdb
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.genruntimeconfig.cache
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.Development.json
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.json
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.exe
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.deps.json
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.json
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.dev.json
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ref\ChatBackend.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.pdb
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Humanizer.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csprojAssemblyReference.cache
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfoInputs.cache
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfo.cs
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CoreCompileInputs.cache
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cs
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cache
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.Manifest.cache
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.xml
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\scopedcss\bundle\ChatBackend.styles.css
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.RazorTargetAssemblyInfo.cache
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CopyComplete
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ref\ChatBackend.dll
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.pdb
+E:\tech lab git projekti\dev\TechLab\App\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.genruntimeconfig.cache
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PC\Desktop\TechLab\App\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.exe
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.deps.json
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.json
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.runtimeconfig.dev.json
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ref\ChatBackend.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\ChatBackend.pdb
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.AssemblyInfo.cs
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\staticwebassets\ChatBackend.StaticWebAssets.xml
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\scopedcss\bundle\ChatBackend.styles.css
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.csproj.CopyComplete
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ref\ChatBackend.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.pdb
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\obj\Debug\net5.0\ChatBackend.genruntimeconfig.cache
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\PC\Desktop\ChatBackend\RestApiCrudDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.dll

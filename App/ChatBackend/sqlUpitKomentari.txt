@@ -1,0 +1,34 @@
+create database KOMENTARI
+
+go
+
+use KOMENTARI
+
+--------------------------------------------------
+
+create table Komentari
+(
+	id int IDENTITY(1,1) primary key,
+	idOglasa int,
+	nazivOglasa varchar(20) not null,
+	korisnik varchar(30) not null,
+	tekst varchar(100) not null
+)
+
+INSERT INTO Komentari VALUES (5, 'test', 'pera.peric', 'Odlican proizvod!')
+INSERT INTO Komentari VALUES (5, 'test', 'marko.markovic', 'Prezadovoljan sam uslugom')
+INSERT INTO Komentari VALUES (5, 'test', 'laza.lazic', 'Nisam zadovoljan proizvodom')
+INSERT INTO Komentari VALUES (6, 'Voce', 'laza.lazic', 'Odlicno!')
+INSERT INTO Komentari VALUES (6, 'Voce', 'marko.markovic', 'Zadovoljan sam uslugom')
+INSERT INTO Komentari VALUES (1, 'oglas1', 'pera.peric', 'komentar 1')
+INSERT INTO Komentari VALUES (1, 'oglas1', 'marko.markovic', 'komentar 2')
+INSERT INTO Komentari VALUES (1, 'oglas1', 'mika.mikic', 'komentar 3')
+INSERT INTO Komentari VALUES (1, 'oglas1', 'pera.peric', 'komentar 4')
+INSERT INTO Komentari VALUES (1, 'oglas1', 'mika.mikic', 'komentar 5')
+INSERT INTO Komentari VALUES (2, 'oglas2', 'pera.peric', 'komentar 1')
+INSERT INTO Komentari VALUES (2, 'oglas2', 'mika.mikic', 'komentar 2')
+INSERT INTO Komentari VALUES (3, 'oglas3', 'marko.markovic', 'komentar 1')
+INSERT INTO Komentari VALUES (3, 'oglas3', 'pera.peric', 'komentar 2')
+INSERT INTO Komentari VALUES (4, 'oglas4', 'pera.peric', 'komentar 1')
+
+select * from Komentari
